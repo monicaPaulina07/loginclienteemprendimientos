@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+
+.colsCliente{
+	display: table;
+	width: 100%;
+}
+
+.colsCliente div{
+	display: table-cell;
+}
